@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sla">
+    <output-path>$PROJECT_DIR$/out/artifacts/sla</output-path>
+    <root id="archive" name="sla.jar" />
+  </artifact>
+</component>
